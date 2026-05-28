@@ -104,6 +104,8 @@ This project can be deployed easily on:
 # 📸 Screenshots
 
 ## 🏠 Home Page
+<img width="1886" height="973" alt="Screenshot 2026-05-24 144825" src="https://github.com/user-attachments/assets/c7bfe455-78a4-4f2d-8a4a-ece1346d5261" />
+
 
 
 
@@ -115,6 +117,9 @@ This project can be deployed easily on:
 ---
 
 ## 🔍 Research Pipeline Running
+<img width="1884" height="973" alt="Screenshot 2026-05-24 145030" src="https://github.com/user-attachments/assets/5d987e6b-a609-4f20-ac61-b0e6b8030328" />
+
+<img width="1891" height="979" alt="Screenshot 2026-05-24 145048" src="https://github.com/user-attachments/assets/42869277-cb80-4f81-8141-19dea0930c1e" />
 
 
 
@@ -127,6 +132,8 @@ This project can be deployed easily on:
 
 ## 📝 Final Research Report
 
+<img width="1892" height="980" alt="Screenshot 2026-05-24 145116" src="https://github.com/user-attachments/assets/9ab7557c-78d1-46b5-8778-77ad6cdcb36d" />
+<img width="1770" height="843" alt="Screenshot 2026-05-24 145234" src="https://github.com/user-attachments/assets/646c0508-60e5-4269-a6c0-c5fb4dc53740" />
 
 
 
